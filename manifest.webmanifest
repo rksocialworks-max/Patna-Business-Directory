@@ -1,0 +1,19 @@
+{
+  "name": "Patna Business Directory",
+  "short_name": "Patna Directory",
+  "description": "Discover local businesses across Bihar.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#183b70",
+  "icons": [
+    {
+      "src": "/pwa-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
